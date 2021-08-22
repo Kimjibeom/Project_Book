@@ -1,27 +1,27 @@
-rank.py
+# rank.py
 
 preprocessing <- 정규화 과정
 
-# initialize - 초기 설정
+* initialize - 초기 설정
 
-# check bias
+* check bias
 
-# iteration - 반복
+* iteration - 반복
 
 
 
-utils.py
+# utils.py
 
 Counter, numpy, scipy(csr_matrix)
 
-# def scan_vocabulary
+* def scan_vocabulary
 
-# def tokenize_sents
+* def tokenize_sents
 
-# def vectorize
+* def vectorize
 
-word.py
+# word.py
 
-sentence.py
+# sentence.py
 
-summarize.py
+# summarize.py
